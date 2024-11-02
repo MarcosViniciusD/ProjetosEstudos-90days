@@ -1,1 +1,9 @@
 Opa, tudo bem?
+Aqui vai uma breve explicação sobre os modulos:
+
+Os modulos internos sao criados nas pastas do nosso projeto;
+Precisamos exportar o modulo;
+Podemos utilizar a instrução module.exports;
+e importar onde precisamos utilizar;
+Para importar vamos utilizar a intrução require;
+Run "Node index.js" no seu terminal
