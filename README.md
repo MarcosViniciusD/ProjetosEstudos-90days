@@ -1,4 +1,4 @@
-# ProjetosEstudos 90dias 📚📆
+# Projeto Estudos 90dias 📚📆
 Projeto criado afim de aprimorar meus conhecimentos na stack MERN(MongoDB, Express, React, NodeJs)
 
 ## Dia 1:  Entendendo sobre Modulos Do NodeJS 🖥️
