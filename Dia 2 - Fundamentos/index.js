@@ -10,3 +10,5 @@ const soma = meuModulo.soma;
 //Chamamos a função soma e passamos os parametros
 soma(5, 10);
 soma(10, 90);
+
+//vá até o caminho cd "aplicacaoComNode\Dia 2 - Fundamentos" e rode "node Index.js"
