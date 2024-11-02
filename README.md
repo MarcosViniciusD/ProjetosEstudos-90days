@@ -14,4 +14,4 @@ Projeto criado afim de aprimorar meus conhecimentos na stack MERN(MongoDB, Expre
 
 >O node permite o envio de argumentos por linha de comandos, esse será o tema abordado no dia 3.
 
->Como podemos passar e utilizar variaveis e comandos por terminal, O `Argumentos.js` contém uma explicação mais detalhada sobre.
+>Como podemos passar e utilizar variaveis e comandos por terminal? O `Argumentos.js` contém uma explicação mais detalhada sobre.
