@@ -15,3 +15,10 @@ Projeto criado afim de aprimorar meus conhecimentos na stack MERN(MongoDB, Expre
 >O node permite o envio de argumentos por linha de comandos, esse será o tema abordado no dia 3.
 
 >Como podemos passar e utilizar variaveis e comandos por terminal? O `Argumentos.js` contém uma explicação mais detalhada sobre.
+
+## Dia 4: Modulos externos 
+
+>  Vamos revisar os conceitos do dia anterior, agora utilizando módulos externos que tornarão nosso trabalho muito mais fácil.
+
+>  Modulo utilizado na aula: Minimist.
+  >link da documentação: https://www.npmjs.com/package/minimist
