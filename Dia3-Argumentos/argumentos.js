@@ -23,12 +23,8 @@ console.log(nome);
 
 /**
  * Podemos fazer com idade, ou criar uma string apresentando nossos argumentos;
- *
  */
 const idade = argumentos[1].split("=")[1];
 console.log(idade);
-
-const sexualidade = argumentos[2].split("=")[1];
-console.log(sexualidade);
 
 console.log(`O usuario ${nome} tem ${idade} anos de idade`);
