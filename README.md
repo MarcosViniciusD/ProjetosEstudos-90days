@@ -23,5 +23,5 @@ Projeto criado afim de aprimorar meus conhecimentos na stack MERN(MongoDB, Expre
 >  Modulo utilizado na aula: Minimist.
   >link da documentação: https://www.npmjs.com/package/minimist
 
-##Dia 5: Praticando com argumentos
+## Dia 5: Praticando com argumentos
 > Praticando com argumentos visto nos dias anteriores. 
