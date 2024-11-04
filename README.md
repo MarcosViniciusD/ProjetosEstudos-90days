@@ -54,6 +54,6 @@ npm start
 
 >Nesse exemplo, caso o aluno esteja reprovado, a mensagem será exibida em vermelho com fundo destacado. Se aprovado, aparecerá em verde.
 
->Documentação do [Chalk](https://www.npmjs.com/package/chalk) 
+>Link da documentação: [Chalk](https://www.npmjs.com/package/chalk) 
 
 
