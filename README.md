@@ -1,24 +1,35 @@
-# Projeto Estudos 90dias 📚📆
-Projeto criado afim de aprimorar meus conhecimentos na stack MERN(MongoDB, Express, React, NodeJs)
+# Projeto Estudos 90 dias 📚📆✨
 
-## Dia 1:  Entendendo sobre Modulos Do NodeJS 🖥️
-> É mais simples do que parece: Primeiro passo é entender oque sao modulos e quais são as suas categorias, para isso acesse o primeiro documento `Index.js e Arquivo.txt` e entenda sobre Modulos NodeJS.
+Projeto criado **a fim de** aprimorar meus conhecimentos na stack MERN (MongoDB, Express, React, Node.js).
 
-## Dia 2: Reforçando Fundamentos sobre Modulos do NodeJS 🖥️
+## Dia 1: Entendendo sobre Módulos do Node.js 🖥️🔍
 
-> Fizemos um pequeno exercicio para reforça como funciona o modulo interno do NodeJS, onde e como podemos reaproveitar pequenos blocos de código.
+> É mais simples do que parece: o primeiro passo é entender o que são módulos e quais são suas categorias. Para isso, acesse o primeiro documento `Index.js` e `Arquivo.txt` e entenda sobre os Módulos do Node.js.
 
-> Para ver o funcionamento do código podemos entrar na pasta 'Dia 2' e executar o comando `Node Index.js` no terminal.
+## Dia 2: Reforçando Fundamentos sobre Módulos do Node.js 🖥️🔄
 
-## Dia 3: Ler agumentos por linha de comando
+> Fizemos um pequeno exercício para reforçar como funciona o módulo interno do Node.js, onde e como podemos reaproveitar pequenos blocos de código.
 
->O node permite o envio de argumentos por linha de comandos, esse será o tema abordado no dia 3.
+> Para ver o funcionamento do código, podemos entrar na pasta "Dia 2" e executar o comando `node Index.js` no terminal.
 
->Como podemos passar e utilizar variaveis e comandos por terminal? O `Argumentos.js` contém uma explicação mais detalhada sobre.
+## Dia 3: Lendo Argumentos por Linha de Comando 📜
 
-## Dia 4: Modulos externos 
+> O Node permite o envio de argumentos por linha de comando; esse será o tema abordado no Dia 3.
 
->  Vamos revisar os conceitos do dia anterior, agora utilizando módulos externos que tornarão nosso trabalho muito mais fácil.
+> Como podemos passar e utilizar variáveis e comandos por terminal? O `Argumentos.js` contém uma explicação mais detalhada sobre isso.
 
->  Modulo utilizado na aula: Minimist.
-  >link da documentação: https://www.npmjs.com/package/minimist
+## Dia 4: Módulos Externos 📦
+
+> Vamos revisar os conceitos do dia anterior, agora utilizando módulos externos que tornarão nosso trabalho muito mais fácil.
+
+> Módulo utilizado na aula: **Minimist**.  
+> Link da documentação: [Minimist](https://www.npmjs.com/package/minimist)
+
+## Dia 5: Praticando com Argumentos 🏋️‍♂️
+
+> Praticando com argumentos vistos nos dias anteriores.
+
+## Dia 6: Entendendo como Funciona o Console 🖥️💬
+
+> O console não serve apenas para utilizarmos a função `console.log`; ele é bem mais amplo que isso.  
+> Além de podermos fazer interpolação de strings e variáveis no nosso console, podemos também limpar as mensagens do console, o que acaba sendo bem útil.
