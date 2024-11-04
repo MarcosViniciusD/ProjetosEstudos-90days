@@ -8,8 +8,8 @@ Projeto criado **a fim de** aprimorar meus conhecimentos na stack MERN (MongoDB,
    ```bash
    git clone https://github.com/MarcosViniciusD/ProjetosEstudos-90days.git
 2.Navegue até o diretório do projeto e instale as dependências:
-   cd ProjetosEstudos-90days
-   npm install
+  ` cd ProjetosEstudos-90days`
+   `npm install`
 
 3. Execute o Projeto
 npm start
