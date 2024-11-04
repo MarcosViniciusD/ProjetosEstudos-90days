@@ -47,3 +47,13 @@ npm start
 
 > O console não serve apenas para utilizarmos a função `console.log`; ele é bem mais amplo que isso.  
 > Além de podermos fazer interpolação de strings e variáveis no nosso console, podemos também limpar as mensagens do console, o que acaba sendo bem útil.
+
+## Dia 7: Aplicando cores ao console.log 
+
+>## Dia 7: Deixando o Console Mais Bonito com Chalk 🎨🖥️
+
+> Nesta aula, vamos instalar o **Chalk**, uma biblioteca que nos permite adicionar cor e estilo ao console, tornando as mensagens mais agradáveis e fáceis de visualizar.
+
+>Nesse exemplo, caso o aluno esteja reprovado, a mensagem será exibida em vermelho com fundo destacado. Se aprovado, aparecerá em verde.
+
+
