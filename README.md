@@ -56,4 +56,11 @@ npm start
 
 >Link da documentação: [Chalk](https://www.npmjs.com/package/chalk) 
 
+## Dia 8: Interagindo com o Usuário no Console com ReadLine 🖥️🗣️
+
+> Nesta aula, vamos explorar o módulo **ReadLine**, que já vem integrado ao Node.js, para criar uma interface de entrada e saída e interagir com o usuário no console.
+
+> Este exemplo pergunta ao usuário sua idade e responde com base no valor inserido. É uma forma um pouco divertida de aprender e treinar  a interação no console!
+
+> Link da documentação: [ReadLine](https://nodejs.org/api/readline.html)
 
