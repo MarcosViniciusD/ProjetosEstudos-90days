@@ -73,7 +73,7 @@ npm start
 ## Dia 10: Aprendendo sobre o funcionamento do EventLoop
 
 > É um recurso da arquitetura do node.
- * Considerações: Tomar cuidado para nao criar loops infinitos e acabar derrubando nossa aplicação quando após o deploy;
+ * Considerações: Tomar cuidado para nao criar loops infinitos e acabar derrubando nossa aplicação após o deploy;
 
 > O codigo é lido de cima para baixo de forma sequencial.
 
