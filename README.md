@@ -64,3 +64,11 @@ npm start
 
 > Link da documentação: [ReadLine](https://nodejs.org/api/readline.html)
 
+## Dia 9: Explorando o Conceito de Promises e Interação com o Usuário 🖥️
+
+> No Dia 9, vamos estudar o conceito de *Promises*, que são muito úteis para lidar com operações assíncronas em JavaScript. Uma *Promise* representa uma operação que ainda está em andamento e que, no futuro, será resolvida com um valor de sucesso ou uma falha. Para essa atividade, vamos utilizar a biblioteca **inquirer** para criar uma interação com o usuário no console.
+
+> Nesta prática, a ideia é fazer perguntas ao usuário e coletar respostas de forma assíncrona, usando *Promises*. Vamos instalar e utilizar o **inquirer** para facilitar essa interação e visualizar o resultado no console.
+
+
+
