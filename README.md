@@ -101,3 +101,5 @@ npm start
 > Cria um servidor Http, basicamente recebe uma reuisicao e envia codigo html como resposta.
 
 >Utilizaremos o metodo `createServer` para criar o servidor e o `listen` para definir nossa porta
+
+>Link da documentação: [Http](https://nodejs.org/api/http.html)
