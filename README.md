@@ -70,5 +70,17 @@ npm start
 
 > Nesta prática, a ideia é fazer perguntas ao usuário e coletar respostas de forma assíncrona, usando *Promises*. Vamos instalar e utilizar o **inquirer** para facilitar essa interação e visualizar o resultado no console.
 
+## Dia 10: Aprendendo sobre o funcionamento do EventLoop
 
+> É um recurso da arquitetura do node.
+ * Considerações: Tomar cuidado para nao criar loops infinitos e acabar derrubando nossa aplicação após o deploy;
+
+> O codigo é lido de cima para baixo de forma sequencial.
+
+## Dia 11: Funções Assincronas e Sincronas
+
+> Em resumo, `Async` e `sync` são duas opçoes de executar metodos dentro do nosso código.
+* Assincrono `Async` significa que o codigo continua progredindo e em algum momento no futuro teremos nossa resposta da execução assincrona,
+* Sincrono `sync` funciona um pouco diferente, o codigo espera ser totalmente executado para proseguir.
+> Entenda mais analisando o material disponivel para a aula :D
 
