@@ -103,3 +103,11 @@ npm start
 >Utilizaremos o metodo `createServer` para criar o servidor e o `listen` para definir nossa porta
 
 >Link da documentação: [Http](https://nodejs.org/api/http.html)
+
+## Dia 15 e 16 : Modulo Url
+
+> Serve para decompor uma URL que passamos para o metodo `parse`;
+
+> Podemos resgatar: `Host, Path, Shearch, Query e etc...`
+
+> A partir dessas informaçoes podemos alterar a logica do nosso código.
