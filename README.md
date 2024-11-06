@@ -77,10 +77,20 @@ npm start
 
 > O codigo é lido de cima para baixo de forma sequencial.
 
-## Dia 11: Funções Assincronas e Sincronas
+## Dia 11: Descanso.
+
+>  Hoje é seu dia de descanso, mas sinta-se avontade para revisar o conteúdo das ultimas aulas
+
+
+## Dia 12: Funções Assincronas e Sincronas
 
 > Em resumo, `Async` e `sync` são duas opçoes de executar metodos dentro do nosso código.
 * Assincrono `Async` significa que o codigo continua progredindo e em algum momento no futuro teremos nossa resposta da execução assincrona,
 * Sincrono `sync` funciona um pouco diferente, o codigo espera ser totalmente executado para proseguir.
 > Entenda mais analisando o material disponivel para a aula :D
 
+## Dia 13: Tipos de Erros no Node
+
+>Temos duas formas principais de gerar ou evidenciar erros no Node, 
+*Throw: É uma forma de encerrar o programa, e gera um novo erro. [Throw](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/throw)
+*Try Catch: Forma de evidenciar algo que deu errado no nosso bloco de codigo e exibir a mensagem de erro. [Try Catch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch)
