@@ -92,5 +92,5 @@ npm start
 ## Dia 13: Tipos de Erros no Node
 
 >Temos duas formas principais de gerar ou evidenciar erros no Node, 
-* Throw: É uma forma de encerrar o programa, e gera um novo erro. [Throw](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/throw)
-* Try Catch: Forma de evidenciar algo que deu errado no nosso bloco de codigo e exibir a mensagem de erro. [Try Catch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch)
+* Throw: É uma forma de encerrar o programa, e gera um novo erro. Confira mais detalhes na documentação: [Throw](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/throw)
+* Try Catch: Forma de evidenciar algo que deu errado no nosso bloco de codigo e exibir a mensagem de erro. Confira mais detalhes na documentação: [Try Catch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch)
