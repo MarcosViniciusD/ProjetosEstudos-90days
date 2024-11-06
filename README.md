@@ -79,8 +79,8 @@ npm start
 
 ## Dia 11: Funções Assincronas e Sincronas
 
-> Em resumo, `Sync` e `Async` são duas opçoes de executar metodos dentro do nosso código.
-* Assincrono significa que o codigo continua progredindo e em algum momento no futuro teremos nossa resposta da execução assincrona,
-* o Sincrono funciona um pouco diferente, o codigo espera ser totalmente executado para proseguir.
+> Em resumo, `Async` e `sync` são duas opçoes de executar metodos dentro do nosso código.
+* Assincrono `Async` significa que o codigo continua progredindo e em algum momento no futuro teremos nossa resposta da execução assincrona,
+* Sincrono `sync` funciona um pouco diferente, o codigo espera ser totalmente executado para proseguir.
 > Entenda mais analisando o material disponivel para a aula :D
 
