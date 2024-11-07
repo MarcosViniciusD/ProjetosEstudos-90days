@@ -111,3 +111,5 @@ npm start
 > Podemos resgatar: `Host, Path, Shearch, Query e etc...`
 
 > A partir dessas informaçoes podemos alterar a logica do nosso código.
+
+## Dia 17 : Caminhos.
