@@ -1,10 +1,10 @@
 # ProjetosEstudos - 90 Dias 📚📆✨
 
 
-Descrição
+* Descrição:
 Este projeto acompanha minha jornada de estudos e desenvolvimento em programação ao longo de 90 dias. Cada dia é dedicado a uma nova aula ou prática, cobrindo diferentes tópicos e desafios para aprimorar minhas habilidades.
 
-Objetivo
+* Objetivo:
 O objetivo deste repositório é documentar meu progresso, compartilhar o código desenvolvido e refletir sobre o aprendizado adquirido em cada aula.
 
 ## Como Rodar o Projeto
