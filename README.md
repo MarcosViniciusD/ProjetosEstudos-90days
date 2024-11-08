@@ -1,5 +1,7 @@
 # ProjetosEstudos - 28 Dias 📚📆✨
-![working gif.gif](https://github.com/MarcosViniciusD/ProjetosEstudos-90days/blob/main/working%20gif.gif)
+<p align="center">
+  <img src="https://github.com/MarcosViniciusD/ProjetosEstudos-90days/blob/main/working%20gif.gif" alt="working gif.gif">
+</p>
 
 * Descrição:
 Este projeto acompanha minha jornada de estudos e desenvolvimento em programação ao longo de 28 dias(Podendo ser menos, dependendo do seu interesse pelo assunto). Cada dia é dedicado a uma nova aula ou prática, cobrindo diferentes tópicos e desafios para aprimorar minhas habilidades.
