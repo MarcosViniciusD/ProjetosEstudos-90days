@@ -1,7 +1,7 @@
 /**
  * É um recurso da arquitetura do node.
  * Considerações: Tomar cuidado para nao criar loops infinitos e acabar derrubando nossa aplicação quando após o deploy;
- * 
+ *
  *O codigo é lido de cima para baixo de forma sequencial.
  */
 
